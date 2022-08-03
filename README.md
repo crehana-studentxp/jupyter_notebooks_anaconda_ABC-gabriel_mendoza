@@ -17,7 +17,7 @@
     <img src="images/project.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">El ABC e Jupyter Notebooks y Anaconda</h3>
+  <h3 align="center">El ABC de Jupyter Notebooks y Anaconda</h3>
   <p align="center">con Gabriel Mendoza</h3> 
 </div>
 
